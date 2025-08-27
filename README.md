@@ -1,8 +1,6 @@
 # Hospital-Admission-Analysis-Project
 “This project contains SQL queries for hospital admission dataset analysis”
 
-# Hospital Admission Analysis - SQL Project
-
 ## Project Overview
 This is a beginner-level SQL project that demonstrates basic data analysis on a hospital admissions dataset. The project includes SQL queries to calculate total admissions, analyze gender distribution, and explore the type of admissions.
 

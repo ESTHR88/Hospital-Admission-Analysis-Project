@@ -10,20 +10,21 @@ This is a beginner-level SQL project that demonstrates basic data analysis on a 
 - **Type of Admission**: Displays different admission types (e.g., Emergency, OPD).
 
 ## Dataset
-- The project uses a synthetic hospital admissions dataset.
+- The project uses a hospital admissions dataset from Kaggle.
+- The project uses the CSV file `hospital_admissions.csv` provided in this repository.
 - The dataset contains basic patient information including `MRD_NO`, `Date_of_Admission`, `Date_of_Discharge`, `Age`, `Gender`, and `Type_of_Admission`.
 
 ## How to Use
-1. Open your SQL environment (e.g., SQL Server Management Studio, MySQL Workbench).  
+1. Open your SQL environment (e.g., SQL Server Management Studio).  
 2. Create a new database and tables (or use the provided SQL scripts).  
 3. Run the SQL scripts in order to generate reports and insights.  
 
 ## Learning Outcomes
 - Understanding basic SQL queries (`SELECT`, `COUNT`, `GROUP BY`, `DISTINCT`).  
 - Practicing data analysis on real-world healthcare datasets.  
-- Preparing a basic project for GitHub portfolio as a fresher.
+- Preparing a project for GitHub portfolio.
 
 ## Author
-**Your Name**  
-Health Informatics Enthusiast | SQL Beginner
+**Esthr**  
+Health Informatics Enthusiast 
 

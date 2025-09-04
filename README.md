@@ -18,8 +18,7 @@ This is a beginner-level SQL project that demonstrates basic data analysis on a 
 1. Open your SQL environment (e.g., SQL Server Management Studio).  
 2. Create a new database and tables (or use the provided SQL scripts).  
 3. Run the SQL scripts in order to generate reports and insights.  
-## Report
-1. Most admissions are Emergency, majority patients discharged, STEMI prevalence steady, comorbidities exist in a smaller but significant subset
+
 ## Learning Outcomes
 - Understanding basic SQL queries (`SELECT`, `COUNT`, `GROUP BY`, `DISTINCT`).  
 - Practicing data analysis on real-world healthcare datasets.  

@@ -2,7 +2,7 @@
 “This project contains SQL queries for hospital admission dataset analysis”
 
 ## Project Overview
-This is a beginner-level SQL project that demonstrates basic data analysis on a hospital admissions dataset. The project includes SQL queries to calculate total admissions, analyze gender distribution, and explore the type of admissions.
+This is a beginner-level SQL project that demonstrates basic data analysis on a hospital admissions dataset. The project includes SQL queries to uncover trends in patient demographics, disease conditions and outcomes by calculate total admissions, analyze gender distribution, and explore the type of admissions.
 
 ## Features / Queries
 - **Total Admissions**: Counts the total number of patient admissions.
@@ -18,7 +18,8 @@ This is a beginner-level SQL project that demonstrates basic data analysis on a 
 1. Open your SQL environment (e.g., SQL Server Management Studio).  
 2. Create a new database and tables (or use the provided SQL scripts).  
 3. Run the SQL scripts in order to generate reports and insights.  
-
+## Report
+1. Most admissions are Emergency, majority patients discharged, STEMI prevalence steady, comorbidities exist in a smaller but significant subset
 ## Learning Outcomes
 - Understanding basic SQL queries (`SELECT`, `COUNT`, `GROUP BY`, `DISTINCT`).  
 - Practicing data analysis on real-world healthcare datasets.  
